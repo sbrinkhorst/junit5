@@ -3,4 +3,4 @@ languages:
 - java
 - groovy
 exclude:
-- documentation/.*
+- /documentation/.*
